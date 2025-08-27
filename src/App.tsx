@@ -30,23 +30,14 @@ export default function App() {
             className="hero-image"
           />
           <h1>Score Turbo 1000®</h1>
-          <p>Aumente seu score de forma rápida, segura e comprovada.</p>
+          <p>Aprenda estratégias financeiras para organizar seu histórico de crédito.</p>
           <p className="info-text">
             Após o pagamento aprovado, você receberá o produto digital no seu
             e-mail em até 2 horas. Caso não receba, envie o comprovante para{" "}
             <strong>chfdigital4@gmail.com</strong> ou no WhatsApp{" "}
             <strong>(11) 96636-5271</strong>.
           </p>
-          <div className="cta-wrapper">
-            <a
-              href="https://pag.ae/7_Zi-W1r7"
-              className="cta-button"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Quero aumentar meu score agora
-            </a>
-          </div>
+          
         </div>
       </header>
 
@@ -55,7 +46,7 @@ export default function App() {
         <h2>Benefícios</h2>
         <div className="benefit-list">
           <div className="benefit-card">
-            <h3>✔️ Aumento Rápido</h3>
+            <h3>✔️ Descubra técnicas que podem ajudar a melhorar sua relação com o crédito.</h3>
             <p>Ganhe até +200 pontos no seu score em poucas semanas.</p>
           </div>
           <div className="benefit-card">
@@ -77,7 +68,7 @@ export default function App() {
         <ol>
           <li>1️⃣ Você acessa o material exclusivo após a compra.</li>
           <li>2️⃣ Segue os passos simples e práticos.</li>
-          <li>3️⃣ Em poucas semanas já vê seu score subir.</li>
+          <li>3️⃣ Em poucas semanas você já entende melhor como funciona o score.</li>
         </ol>
       </section>
 
@@ -87,7 +78,7 @@ export default function App() {
         <div className="testimonial-list">
           <div className="testimonial">
             <img src="/img/Tonja-King.png" alt="Cliente 1" loading="lazy" />
-            <p>"Meu score aumentou 200 pontos em um mês!" – Maria</p>
+            <p>"Aprendi a organizar minhas finanças e entendi melhor meu score!" – Maria</p>
           </div>
           <div className="testimonial">
             <img src="/img/Scott-Clearman.png" alt="Cliente 2" loading="lazy" />
@@ -124,7 +115,7 @@ export default function App() {
         <h2>Não perca a chance de mudar sua vida financeira</h2>
         <p>
           De <span className="old-price">R$ 87,90</span> por apenas{" "}
-          <span className="new-price">R$ 29,90</span> até o fim do mês!
+          <span className="new-price">R$ 29,90</span> promoção por tempo limitado!
         </p>
         <a
           href="https://pag.ae/7_Zi-W1r7"
@@ -132,7 +123,7 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Quero aumentar meu score agora
+          Quero aprender agora
         </a>
 
         {/* Termos e Privacidade */}
